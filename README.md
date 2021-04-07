@@ -11,11 +11,11 @@ Application consists of three microservices:
 * ratings-data-service
 * discovery-server
 
-![High Level Design](./images/high-level-arch)
+![High Level Design](./.images/high-level-arch.png)
 
 *movie-catalog-service* retrieves movie information from *movie-info-service* and movie ratings from *ratings-data-service*. *Discovery-server* is a microservice to locate each microservices on a network.  
 
-![Sequence diagram](./images/sd.png)
+![Sequence diagram](./.images/sd.png)
 
 # How to Run
 

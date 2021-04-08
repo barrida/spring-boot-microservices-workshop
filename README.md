@@ -19,7 +19,7 @@ Application consists of three microservices:
 
 # How to Run
 
-* Run each micrtoservice as a standart Java application
+* Run each microservice as a standart Java application
 * Run catalog API: http://localhost:8081/catalog/foo
 * You can monitor Hystrix for Fault Tolerance: http://localhost:8081/hystrix/monitor?stream=http%3A%2F%2Flocalhost%3A8081%2Factuator%2Fhystrix.stream
 

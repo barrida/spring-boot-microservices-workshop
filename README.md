@@ -1,6 +1,6 @@
 # Introduction
 
-Notes from Spring Boot Microservices workshop by [Java Brains](https://www.youtube.com/c/JavaBrainsChannel)
+Notes from Spring Boot Microservices workshop by [Java Brains](https://lnkd.in/dzZ4r43)
 
 # Application
 

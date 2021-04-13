@@ -131,5 +131,16 @@ You have applied the Microservice architecture. Services sometimes collaborate w
 * Configure Hystrix behaviour
 
 
+# Introducing Spring Cloud Config Server
+
+What do we want to achieve by using Config Server? 
+![why-spring-cloud-config-server](./.images/why-spring-cloud-config.png)
+
+We want microservices to retrieve all config values from the Config Server
+![config-server](./.images/config-server.png)
+
+Spring Cloud Config Server is one of the most widely-used option
+![Config Options](./.images/config-options.png)
 
 
+https://spring.io/guides/gs/centralized-configuration/ 
